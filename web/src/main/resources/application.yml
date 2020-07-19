@@ -35,5 +35,5 @@ aisp:
 pisp:
   target:
     context: /open-banking/v3.1/pisp
-    baseUri: https://ob.rbs.useinfinite.io
-    audience: https://api.rbs.useinfinite.io/authorize
+    baseUri: https://ob.natwest.useinfinite.io
+    audience: https://api.natwest.useinfinite.io/authorize
